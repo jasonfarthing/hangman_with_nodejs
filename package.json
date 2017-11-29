@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/jasonfarthing/hangman_with_nodejs#readme",
   "dependencies": {
-    "inquire": "^0.4.8",
+    "inquirer": "^4.0.0",
+    "moviedb": "^0.2.10",
     "prompt": "^1.0.0"
   }
 }
